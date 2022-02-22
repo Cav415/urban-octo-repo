@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-                                    /* Start Header Style */
+            /* Start Header Style */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,7 +41,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-                                /* End Header Style */
+             /* End Header Style */
 
 a {
     color: #ffffff;
@@ -61,7 +61,7 @@ p {
     background-position: center;
 }
 
-                                    /* Start Content Style */
+            /* Start Content Style */
 .content {
     width: 75%;
     display: inline-block;
@@ -100,9 +100,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-                                    /* End Content Style */
+            /* End Content Style */
 
-                                    /* Start Benefits Style */
+            /* Start Benefits Style */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,9 +134,9 @@ rather then assigning three seperate classes to each <div> */
     margin: 10px auto;
     max-width: 150px;
 }
-                                    /* End Benefits Style */
+            /* End Benefits Style */
 
-                                    /* Start Footer Style */
+            /* Start Footer Style */
 .footer {
     padding: 30px;
     clear: both;
@@ -147,4 +147,4 @@ rather then assigning three seperate classes to each <div> */
 .footer h2 {
     font-size: 20px;
 }
-                                    /* End Footer Style */
+            /* End Footer Style */
