@@ -4,4 +4,4 @@ Using the CSS "box model" this is a landing site made up from five div elements 
   # Screenshot of webpage
   ![Urban Octo Telegram copy](https://user-images.githubusercontent.com/88855162/155454120-896aea33-7c74-440f-a35c-1259616ec078.jpg)
   # Link to deployable webpage
-  [https://cav415.github.io/urban-octo-repo/#social-media-marketing](https://cav415.github.io/urban-octo-repo/#social-media-marketing)
+  [https://cav415.github.io/urban-octo-repo/](https://cav415.github.io/urban-octo-repo/)
